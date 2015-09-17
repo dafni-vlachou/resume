@@ -1,0 +1,54 @@
+
+.content-wrapper {
+text-align: center;
+}
+
+p {
+	margin-left: auto;
+	margin-right: auto;
+	width: 23em;
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	font-size: 13px;
+    line-height: 1.4em;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Arial, sans-serif, Times;
+}
+
+a{
+	text-decoration: none;
+}
+
+.sections {
+	
+}
+.sections a, .sections a:hover, .sections a:active{
+	color: #303030;
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	font-family: Courier;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    margin-left: 20px;
+
+}
+
+.links a, .links a:hover, .links a:active{
+	color: black;
+	text-decoration: none;
+	color: #303030;
+	text-align: center;
+} 
+
+
+
